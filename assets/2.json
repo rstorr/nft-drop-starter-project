@@ -1,0 +1,20 @@
+{
+  "name": "normal_bart",
+  "symbol": "",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "9gD2etQdwKv7EqFzjF5DZj64Knid7ZGRcV545i1h8gA",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {"name": "barts", "family": "barts"}
+}
